@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\adall\desktop\finalproject\source.cpp(369): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+c:\users\adall\desktop\finalproject\source.cpp(371): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+c:\users\adall\desktop\finalproject\source.cpp(764): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\adall\desktop\finalproject\source.cpp(793): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\adall\desktop\finalproject\source.cpp(822): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\adall\desktop\finalproject\source.cpp(851): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\adall\desktop\finalproject\source.cpp(77): warning C4102: 'MENU': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(204): warning C4102: 'switch1': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(207): warning C4102: 'add': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(231): warning C4102: 'sub': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(257): warning C4102: 'mult': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(283): warning C4102: 'divi': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(312): warning C4102: 'sqr': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(337): warning C4102: 'sqrt': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(365): warning C4102: 'fact': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(415): warning C4102: 'switch2': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(418): warning C4102: 'cos': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(443): warning C4102: 'sin': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(468): warning C4102: 'tan': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(493): warning C4102: 'acos': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(518): warning C4102: 'asin': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(543): warning C4102: 'atan': unreferenced label
+c:\users\adall\desktop\finalproject\source.cpp(50): warning C4101: 'factorial': unreferenced local variable
+c:\users\adall\desktop\finalproject\source.cpp(48): warning C4101: 'mainmenu': unreferenced local variable
+c:\users\adall\desktop\finalproject\source.cpp(49): warning C4101: 'i': unreferenced local variable
+c:\users\adall\desktop\finalproject\source.cpp(46): warning C4101: 'number4': unreferenced local variable
+  FinalProject.vcxproj -> C:\Users\adall\Desktop\FinalProject\Debug\FinalProject.exe
